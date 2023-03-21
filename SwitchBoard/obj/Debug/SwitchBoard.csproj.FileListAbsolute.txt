@@ -1,0 +1,8 @@
+C:\Users\leadr\source\repos\SwitchBoard\SwitchBoard\bin\Debug\SwitchBoard.exe.config
+C:\Users\leadr\source\repos\SwitchBoard\SwitchBoard\bin\Debug\SwitchBoard.exe
+C:\Users\leadr\source\repos\SwitchBoard\SwitchBoard\bin\Debug\SwitchBoard.pdb
+C:\Users\leadr\source\repos\SwitchBoard\SwitchBoard\obj\Debug\SwitchBoard.csproj.AssemblyReference.cache
+C:\Users\leadr\source\repos\SwitchBoard\SwitchBoard\obj\Debug\SwitchBoard.csproj.SuggestedBindingRedirects.cache
+C:\Users\leadr\source\repos\SwitchBoard\SwitchBoard\obj\Debug\SwitchBoard.csproj.CoreCompileInputs.cache
+C:\Users\leadr\source\repos\SwitchBoard\SwitchBoard\obj\Debug\SwitchBoard.exe
+C:\Users\leadr\source\repos\SwitchBoard\SwitchBoard\obj\Debug\SwitchBoard.pdb
